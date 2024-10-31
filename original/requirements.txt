@@ -1,0 +1,9 @@
+torch
+torchvision
+onnx
+onnxruntime
+Pillow
+numpy
+matplotlib
+opencv-python
+requests
